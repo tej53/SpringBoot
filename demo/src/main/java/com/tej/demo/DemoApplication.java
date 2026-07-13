@@ -10,7 +10,6 @@ public class DemoApplication {
 //		Student student = new Student("pavan", 21);
 //		System.out.println("Name: " + student.getName());
 //		System.out.println("Age: " + student.getAge());
-
 		ApplicationContext context = SpringApplication.run(DemoApplication.class);
 		Student student = context.getBean(Student.class);
 		student.setName("Pavan");
