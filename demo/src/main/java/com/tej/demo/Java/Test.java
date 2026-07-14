@@ -1,4 +1,4 @@
-package com.tej.demo;
+package com.tej.demo.Java;
 
 class P{
     void m1(){
