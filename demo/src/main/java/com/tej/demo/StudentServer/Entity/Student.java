@@ -1,4 +1,4 @@
-package com.tej.demo.StudentServer;
+package com.tej.demo.StudentServer.Entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
